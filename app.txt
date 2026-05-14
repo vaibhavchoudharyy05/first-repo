@@ -1,0 +1,13 @@
+login page 
+accpt username 
+session store
+redirect welcome page
+logout
+
+python -m venv myenv
+myenv\Scripts\activate
+
+
+
+template inheritance
+base.html ko har jgha use karna h  
